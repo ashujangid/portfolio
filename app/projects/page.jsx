@@ -54,7 +54,7 @@ export default function ProjectPage() {
                     secure online payments.
                 </p>
 
-                <ul className="list-discspace-y-3 text-gray-700 leading-relaxed">
+                <ul className="list-disc space-y-3 text-gray-700 leading-relaxed">
                     <li>
                         Architected and developed a scalable backend using CodeIgniter and
                         MySQL to manage product catalogs, rental plans, user verification,
@@ -92,7 +92,7 @@ export default function ProjectPage() {
                     and lead generation.
                 </p>
 
-                <ul className="list-discspace-y-3 text-gray-700 leading-relaxed">
+                <ul className="list-disc space-y-3 text-gray-700 leading-relaxed">
                     <li>
                         Developed a Laravel application with secure customer onboarding,
                         lead management, and role-based admin dashboards.
